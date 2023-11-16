@@ -1,0 +1,16 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(22,72,99,0.6) 0%, rgba(66,125,157,0.6) 50%), url(../../images/trees.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	backgorund-position: center;
+}
+.banner h1 {
+	font-size: 50px;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.72;
+	margin-bottom: 40px;
+}
